@@ -36,5 +36,5 @@
   "compilerOptions": {
     "allowJs": true
   },
-  "include": ["src"]
+  "include": ["**/*.ts", "**/*.tsx"]
 }
